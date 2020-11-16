@@ -1,5 +1,5 @@
 # gallery
 HTML CSS GALLERY
 
-<img src="img/screenshot.jpg">
+<img src="images/screenshot.jpg">
 
